@@ -41,9 +41,16 @@ Each project listed below includes:
 🔗 [View Repository](https://github.com/ViktorijaMelder/ab-testing-marketing-campaigns)
 
 ---
+## Python - Chess Piece Capture
+
+**Tools:** Google Colab  
+**Description** A terminal-style chess simulation built using Python and hosted on Google Colab. 
+This project lets you place a single white piece (`knight` or `rook`) and up to 16 black pieces on a chessboard, and determines which black pieces can be captured based on standard chess rules.
+
+---
 
 ## Contact
 
 Feel free to reach out if you have any questions.   
 viktorija.melder@gmail.com    
-www.linkedin.com/in/viktorija-melder-4799967a
+www.linkedin.com/in/viktorija-melder
