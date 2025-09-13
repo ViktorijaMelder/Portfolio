@@ -1,6 +1,6 @@
 # Viktorija Melder – Data Analytics Portfolio
 
-Welcome to my data analytics project portfolio. This repository serves as a landing page to showcase selected projects that demonstrate my skills in SQL, cohort analysis, A/B testing, customer segmentation, and data visualization using tools like Power BI and Google Sheets.
+Welcome to my data analytics project portfolio. This repository serves as a landing page to showcase selected projects that demonstrate my skills in SQL, cohort analysis, A/B testing, customer segmentation, data manipulation using Python, and data visualization using tools like Power BI and Google Sheets.
 
 Each project listed below includes:
 - A detailed project description and goals
@@ -47,6 +47,17 @@ Each project listed below includes:
 **Description** A terminal-style chess simulation built using Python and hosted on Google Colab. 
 This project lets you place a single white piece (`knight` or `rook`) and up to 16 black pieces on a chessboard, and determines which black pieces can be captured based on standard chess rules.  
 🔗 [View Repository](https://github.com/ViktorijaMelder/chess-piece-capture/)
+
+---
+
+## Data Processing with Pandas
+
+**Tools:** Python, Pandas, Jupyter Notebook  
+**Description** This project focuses on performing **data processing, cleaning, and exploratory analysis** on the dataset:  
+**Top 50 Most Streamed Tracks on Spotify in 2020**.  
+🔗 [View Repository](https://github.com/ViktorijaMelder/data-processing-with-pandas)
+
+---
 
 ---
 
