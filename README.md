@@ -44,7 +44,7 @@ Each project listed below includes:
 ## Python - Chess Piece Capture
 
 **Tools:** Google Colab  
-**Description** A terminal-style chess simulation built using Python and hosted on Google Colab. 
+**Description:** A terminal-style chess simulation built using Python and hosted on Google Colab. 
 This project lets you place a single white piece (`knight` or `rook`) and up to 16 black pieces on a chessboard, and determines which black pieces can be captured based on standard chess rules.  
 🔗 [View Repository](https://github.com/ViktorijaMelder/chess-piece-capture/)
 
@@ -53,11 +53,17 @@ This project lets you place a single white piece (`knight` or `rook`) and up to 
 ## Data Processing with Pandas
 
 **Tools:** Python, Pandas, Jupyter Notebook  
-**Description** This project focuses on performing **data processing, cleaning, and exploratory analysis** on the dataset:  
+**Description:** This project focuses on performing **data processing, cleaning, and exploratory analysis** on the dataset:  
 **Top 50 Most Streamed Tracks on Spotify in 2020**.  
 🔗 [View Repository](https://github.com/ViktorijaMelder/data-processing-with-pandas)
 
 ---
+
+## Data Visualization with Python
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook  
+**Description:** This project explores a dataset of Coursera courses with the aim to load and clean the dataset, perform EDA and visualize key aspects.  
+🔗 [View Repository](https://github.com/ViktorijaMelder/data-visualization-with-python)
 
 ---
 
