@@ -45,7 +45,8 @@ Each project listed below includes:
 
 **Tools:** Google Colab  
 **Description** A terminal-style chess simulation built using Python and hosted on Google Colab. 
-This project lets you place a single white piece (`knight` or `rook`) and up to 16 black pieces on a chessboard, and determines which black pieces can be captured based on standard chess rules.
+This project lets you place a single white piece (`knight` or `rook`) and up to 16 black pieces on a chessboard, and determines which black pieces can be captured based on standard chess rules.  
+🔗 [View Repository](https://github.com/ViktorijaMelder/chess_piece_capture/)
 
 ---
 
