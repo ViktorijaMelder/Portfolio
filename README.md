@@ -67,6 +67,15 @@ This project lets you place a single white piece (`knight` or `rook`) and up to 
 
 ---
 
+## Regression: Cardiovascular Disease Prediction
+
+**Tools:** Python, Pandas, , Numpy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+**Description:** This project applies **logistic regression** to predict the **10-year risk of coronary heart disease (CHD)** using patient-level data.  
+The dataset includes demographic, lifestyle, and clinical variables such as age, sex, blood pressure, smoking, diabetes, and cholesterol.  
+🔗 [View Repository](https://github.com/ViktorijaMelder/regression-cardiovascular-disease-prediction)
+
+---
+
 ## Contact
 
 Feel free to reach out if you have any questions.   
